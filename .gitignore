@@ -1,0 +1,14 @@
+# Project place file
+/mamakhu.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+
+Packages/
+ServerPackages/
+sourcemap.json
+wally.lock
